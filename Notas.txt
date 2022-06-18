@@ -1,2 +1,2 @@
-npx tailwindcss -i tailwind.css -o ./src/asset/css/style.css --watch
-npx tailwindcss -i tailwind.css -o ./src/asset/css/style.css --minify
+npx tailwindcss -i tailwind.css -o ./src/como-aliviar-a-colica-do-bebe/asset/css/style.css --watch
+npx tailwindcss -i tailwind.css -o ./src/como-aliviar-a-colica-do-bebe/asset/css/style.css --minify

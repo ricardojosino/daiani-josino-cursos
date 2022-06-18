@@ -1,7 +1,7 @@
 module.exports = {
   content: [
-      './src/index.html',
-      './src/typography.html'
+      './src/como-aliviar-a-colica-do-bebe/index.html',
+      './src/como-aliviar-a-colica-do-bebe/typography.html'
   ],
   theme: {
     colors: {
