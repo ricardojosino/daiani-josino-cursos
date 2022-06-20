@@ -2,7 +2,8 @@ module.exports = {
   content: [
       './src/como-aliviar-a-colica-do-bebe/index.html',
       './src/como-aliviar-a-colica-do-bebe/typography.html',
-      './src/como-aliviar-a-colica-do-bebe/asset/js/script.js'
+      './src/como-aliviar-a-colica-do-bebe/asset/js/script.js',
+      './src/como-aliviar-a-colica-do-bebe/compra-realizada/index.html'
   ],
   theme: {
     colors: {
