@@ -26,5 +26,5 @@ function playVideo(selector_video, selector_button, video_id, player) {
 
 // hcitt97R1Vk
 // quYodSv0Wr0
-playVideo('#video-venda', '#video-venda-click', '722020870', 'vimeo')
-playVideo('#video-conheca-shantala', '#video-conheca-shantala-click', '722039018', 'vimeo')
+playVideo('#video-venda', '#video-venda-click', '722372564', 'vimeo')
+playVideo('#video-conheca-shantala', '#video-conheca-shantala-click', '722398900', 'vimeo')
