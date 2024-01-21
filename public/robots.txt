@@ -1,3 +1,0 @@
-user-agent: *
-Allow: /
-Sitemap:https://cursos.daianijosino.com.br/sitemap.xml
